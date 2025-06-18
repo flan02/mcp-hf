@@ -1,0 +1,3 @@
+pip install mcp
+pip install mcp[cli]
+pip install uv
