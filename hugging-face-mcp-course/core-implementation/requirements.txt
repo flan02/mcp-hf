@@ -1,3 +1,5 @@
 pip install mcp
 pip install mcp[cli]
 pip install uv
+pip install smolagents[mcp] 
+pip install gradio[mcp]
